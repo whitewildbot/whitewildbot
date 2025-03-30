@@ -1,1 +1,1 @@
-[https://github.com/whitewildbot/whitewildbot/wiki](https://github.com/whitewildbot/whitewildbot/wiki)
+[https://github.com/whitewildbot/whitewildbot/wiki/Commands](https://github.com/whitewildbot/whitewildbot/wiki/Commands)
