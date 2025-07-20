@@ -1,1 +1,1 @@
-[https://github.com/whitewildbot/whitewildbot/wiki/Commands](https://github.com/whitewildbot/whitewildbot/wiki/Commands)
+![Meow](https://avatars.githubusercontent.com/u/186025050?v=4)
